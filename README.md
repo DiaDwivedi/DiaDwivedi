@@ -1,25 +1,16 @@
  Hi, I'm Diya
 
-B.Tech CSE Student, PSIT'27 | Java Developer | AI/ML Enthusiast | Blockchain Explorer
+B.Tech CSE Student, PSIT'27 | Backend Developer | AI/ML Enthusiast
 
-I'm passionate about building meaningful, scalable, and intelligent systems through clean code, data-driven thinking, and secure architecture. My work focuses on merging core development with modern technologies like machine learning and blockchain.
+I'm passionate about building meaningful, scalable, and intelligent systems through clean code, data-driven thinking, and secure architecture. My work focuses on merging core development with modern technologies like machine learningand generative ai.
 
 ---
 
 ## Tech Stack
 
-- Languages: Java, Python, C++, Solidity  
+- Languages: Java, Python, C++
 - AI/ML: scikit-learn, pandas, NumPy, OpenCV  
-- Blockchain: Ethereum fundamentals, smart contracts (Solidity)  
-- Tools: Git, GitHub, Jupyter, VS Code, Postman
-
----
-
-## Featured Projects
-
-- **Movie Recommender (Coming Soon)**  
-  Content-based system using TF-IDF and cosine similarity.
-
+- Tools: Git, GitHub, Jupyter, VS Code, Postman,docker
 
 ---
 
