@@ -8,7 +8,7 @@ I'm passionate about building meaningful, scalable, and intelligent systems thro
 
 ## Tech Stack
 
-- Languages: Java, Python, C++
+- Languages: Python, C++
 - AI/ML: scikit-learn, pandas, NumPy, OpenCV  
 - Tools: Git, GitHub, Jupyter, VS Code, Postman,docker
 
@@ -18,7 +18,6 @@ I'm passionate about building meaningful, scalable, and intelligent systems thro
 
 - Applied Machine Learning and model optimization  
 - Backend architecture and API design  
-- Blockchain applications and smart contract security
 
 ---
 
