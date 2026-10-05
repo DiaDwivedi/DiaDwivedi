@@ -2,7 +2,7 @@
 
 B.Tech CSE Student, PSIT'27 | Backend Developer | AI/ML Enthusiast
 
-I'm passionate about building meaningful, scalable, and intelligent systems through clean code, data-driven thinking, and secure architecture. My work focuses on merging core development with modern technologies like machine learningand generative ai.
+I'm passionate about building meaningful, scalable, and intelligent systems through clean code, data-driven thinking, and secure architecture. My work focuses on merging core development with modern technologies like machine learning and generative ai.
 
 ---
 
